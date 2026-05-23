@@ -1,0 +1,85 @@
+# MODULE – 1
+
+1. Explain the concept of pipelining in detail.
+2. Briefly describe exceptions, interrupts, and the vector table.
+3. Describe conditional execution and list the different code suffixes.
+4. Compare and contrast microprocessors and microcontrollers.
+5. Explain the ARM core data flow model with a diagram.
+6. Explain the four main hardware components of an ARM-based embedded device with a diagram.
+7. Explain the different processor modes in ARM7 and provide a schematic of the Current Program Status Register (CPSR) with individual bit descriptions.
+8. Explain pipelining in detail with a schematic.
+9. Explain major design rules for RISC philosophy and differences between RISC and CISC processors.
+10. Discuss ARM design philosophy and ARM bus technology.
+11. Explain the ARM core data flow model with a diagram.
+12. Explain the four main hardware components of an ARM-based embedded device (microcontroller) with a diagram, and briefly describe ARM registers used under various modes.
+
+---
+
+# MODULE – 2
+
+1. What are the various logical instructions supported by ARM? Explain each with examples.
+2. Explain the different branching instructions of ARM processor.
+3. Summarize the scheduling of load instructions.
+4. Summarize the scheduling of common instruction classes on ARM7TDMI.
+5. Explain the Program Status Register (PSR) in ARM and list its fields. How can PSR be accessed and modified?
+6. Explain how you would use profiling and cycle counting to optimize an ARM assembly program. Give an example.
+7. What is barrel shifter? Describe the various operations barrel shifter supports.
+8. Explain load store instructions with examples.
+9. Explain different data processing instructions in ARM.
+10. Explain the various multiply instructions of ARM processor.
+
+---
+
+# MODULE – 3
+
+1. Explain program memory classification.
+
+2. List different purposes of embedded system with examples.
+
+3. Explain the following:
+   i. I2C
+   ii. 1-Wire Interface
+   iii. SPI Interface
+   iv. Reset Circuit
+
+4. Explain the working principle with a diagram for each:
+   i. Memory sensors
+   ii. Actuators
+   iii. 7 segment LED display
+   iv. Stepper motor
+   v. Keyboard
+   vi. Push button switch
+
+5. Explain embedded framework and classification of embedded system.
+
+6. What is embedded system? List its purposes and applications.
+
+7. Differentiate between General purpose computing system and embedded system.
+
+---
+
+# MODULE – 4
+
+1. Explain the non-operational quality attributes of embedded systems. How do they influence the product's life-cycle and commercial success?
+2. Compare application-specific and domain specific embedded systems. Explain with one example for each category.
+3. Explain the concept of hardware-software co-design. Why is co-design important in embedded system development? Illustrate the typical co-design process.
+4. What is program modeling in embedded systems? Discuss any one common model (DFG, FSM, or Statecharts) with a diagram and example.
+5. Explain the process of designing an embedded system starting from specification to implementation. Highlight the role of co-design and modeling at each stage.
+6. Explain the characteristics of embedded systems that differentiate them from general-purpose systems.
+7. Discuss the operational quality attributes of embedded systems with suitable examples.
+
+---
+
+# MODULE – 5
+
+1. What is RTOS? Explain different services of RTOS?
+2. Explain in detail task, process and thread. Also explain multitasking concept with an example.
+3. What is scheduling? Explain the various scheduling algorithms in RTOS.
+4. Explain task communication and task synchronization.
+5. What is semaphore? Explain various types of semaphores in RTOS.
+6. Explain how to choose an RTOS in embedded system.
+7. Explain integration of hardware and firmware design of embedded system.
+8. Explain detailed embedded system development environment.
+9. Explain basics of operating system. Explain types of operating system in embedded systems.
+10. Differentiate between soft and hard real time systems.
+11. Explain structure of process.
